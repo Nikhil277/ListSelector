@@ -1,0 +1,20 @@
+{
+  "name": "ListSelector",
+  "version": "1.0.0",
+  "description": "Component to display a list of selectable components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nikhil277/ListSelector.git"
+  },
+  "keywords": [],
+  "author": "Nikhil B Kuriakose",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/Nikhil277/ListSelector/issues"
+  },
+  "homepage": "https://github.com/Nikhil277/ListSelector#readme"
+}
